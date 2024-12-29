@@ -1,0 +1,30 @@
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\appsettings.Development.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\appsettings.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\Simple Ecommerce Application.staticwebassets.endpoints.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\Simple Ecommerce Application.exe
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\Simple Ecommerce Application.deps.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\Simple Ecommerce Application.runtimeconfig.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\Simple Ecommerce Application.dll
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\bin\Debug\net8.0\Simple Ecommerce Application.pdb
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.AssemblyInfoInputs.cache
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.AssemblyInfo.cs
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.csproj.CoreCompileInputs.cache
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.MvcApplicationPartsAssemblyInfo.cache
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.sourcelink.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\scopedcss\bundle\Simple Ecommerce Application.styles.css
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets\msbuild.Simple Ecommerce Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets\msbuild.Simple Ecommerce Application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Simple Ecommerce Application.props
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Simple Ecommerce Application.props
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Simple Ecommerce Application.props
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.dll
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\refint\Simple Ecommerce Application.dll
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.pdb
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\Simple Ecommerce Application.genruntimeconfig.cache
+C:\myLearnings\EcommerceOrderProcessing\Simple Ecommerce Application\obj\Debug\net8.0\ref\Simple Ecommerce Application.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\myLearnings\\Simple Ecommerce Application\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj": {}
+    "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj": {}
   },
   "projects": {
-    "C:\\myLearnings\\Simple Ecommerce Application\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj": {
+    "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\myLearnings\\Simple Ecommerce Application\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj",
+        "projectUniqueName": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj",
         "projectName": "Simple Ecommerce Application",
-        "projectPath": "C:\\myLearnings\\Simple Ecommerce Application\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj",
+        "projectPath": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Simple Ecommerce Application.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\myLearnings\\Simple Ecommerce Application\\Simple Ecommerce Application\\obj\\",
+        "outputPath": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\myLearnings\\Simple Ecommerce Application\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\myLearnings\\EcommerceOrderProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Simple Ecommerce Application\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Simple Ecommerce Application\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:12:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Simple Ecommerce Application\\Models\\Product.cs",
+              "ToolTip": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Models\\Product.cs",
+              "RelativeToolTip": "Simple Ecommerce Application\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:56:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Simple Ecommerce Application\\Models\\Order.cs",
+              "ToolTip": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Models\\Order.cs",
+              "RelativeToolTip": "Simple Ecommerce Application\\Models\\Order.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:55:09.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Program.cs",
+              "RelativeDocumentMoniker": "Simple Ecommerce Application\\Program.cs",
+              "ToolTip": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Program.cs",
+              "RelativeToolTip": "Simple Ecommerce Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:33:18.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
