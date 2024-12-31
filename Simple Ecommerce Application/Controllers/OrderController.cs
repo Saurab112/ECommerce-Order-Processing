@@ -15,7 +15,7 @@ namespace Simple_Ecommerce_Application.Controllers
 				return BadRequest(messages);
 			}
 			Random random = new Random();
-			int randomOrderNumber = random.Next(1, 99999);
+			int randomOrderNumber = random.Next(1, 9999);
 
 			return Json(new { orderNumber = randomOrderNumber });
 		}

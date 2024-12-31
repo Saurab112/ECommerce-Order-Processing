@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Simple Ecommerce Application\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Simple Ecommerce Application\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T10:12:41.842Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Simple Ecommerce Application\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:56:48.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T09:56:48.529Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Simple Ecommerce Application\\Models\\Order.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T09:55:09.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T09:55:09.89Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Simple Ecommerce Application\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:33:18.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T15:33:18.832Z"
             }
           ]
         }

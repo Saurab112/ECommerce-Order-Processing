@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|solutionrelative:simple ecommerce application\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{888630D0-F296-412A-848C-853FD7B2E8B9}|Simple Ecommerce Application\\Simple Ecommerce Application.csproj|c:\\mylearnings\\ecommerceorderprocessing\\simple ecommerce application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Simple Ecommerce Application\\Models\\Product.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\myLearnings\\EcommerceOrderProcessing\\Simple Ecommerce Application\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Simple Ecommerce Application\\Models\\Order.cs",
